@@ -12,3 +12,4 @@ working area
 ## Copyright
 Master changes
 Rebase  example
+After Rebase
